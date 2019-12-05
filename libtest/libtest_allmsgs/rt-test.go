@@ -3,8 +3,8 @@ package libtest_allmsgs
 import (
 	"bytes"
 	"fmt"
-	"github.com/edwinhayes/rosgo/libgengo"
-	"github.com/edwinhayes/rosgo/ros"
+	"github.com/justinscorringe/rosgo/libgengo"
+	"github.com/justinscorringe/rosgo/ros"
 	"os"
 	"strings"
 	"testing"

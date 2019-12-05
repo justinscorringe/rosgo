@@ -1,8 +1,8 @@
 package libtest_publish_subscribe
 
 import (
-	"github.com/edwinhayes/rosgo/libtest/msgs/std_msgs"
-	"github.com/edwinhayes/rosgo/ros"
+	"github.com/justinscorringe/rosgo/libtest/msgs/std_msgs"
+	"github.com/justinscorringe/rosgo/ros"
 	"os"
 	"testing"
 )

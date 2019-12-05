@@ -1,7 +1,7 @@
 package libtest_param
 
 import (
-	"github.com/edwinhayes/rosgo/ros"
+	"github.com/justinscorringe/rosgo/ros"
 	"log"
 	"os"
 	"testing"

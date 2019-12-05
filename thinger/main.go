@@ -8,12 +8,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/edwinhayes/rosgo/libtest/libtest_bytes"
-	"github.com/edwinhayes/rosgo/libtest/libtest_dynamic_message"
-	"github.com/edwinhayes/rosgo/libtest/libtest_param"
-	"github.com/edwinhayes/rosgo/libtest/libtest_publish_subscribe"
-	"github.com/edwinhayes/rosgo/libtest/libtest_service"
-	"github.com/edwinhayes/rosgo/ros"
+	"github.com/justinscorringe/rosgo/libtest/libtest_bytes"
+	"github.com/justinscorringe/rosgo/libtest/libtest_dynamic_message"
+	"github.com/justinscorringe/rosgo/libtest/libtest_param"
+	"github.com/justinscorringe/rosgo/libtest/libtest_publish_subscribe"
+	"github.com/justinscorringe/rosgo/libtest/libtest_service"
+	"github.com/justinscorringe/rosgo/ros"
 	"os"
 	"os/signal"
 	"strconv"
