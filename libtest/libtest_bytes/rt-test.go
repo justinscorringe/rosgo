@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/hex"
 	"fmt"
-	"github.com/edwinhayes/rosgo/ros"
+	"github.com/justinscorringe/rosgo/ros"
 	"testing"
 )
 

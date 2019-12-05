@@ -1,7 +1,7 @@
 package libtest_dynamic_message
 
 import (
-	"github.com/edwinhayes/rosgo/ros"
+	"github.com/justinscorringe/rosgo/ros"
 	"os"
 	"testing"
 )
